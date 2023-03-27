@@ -18,8 +18,6 @@ const Me = {
     softSkills: [Creativity, Team Working, Agile Thinking],
     loves: [music, code, tech, instruments]
 };
-
-
 if(need_developer){
     contactMe("renato.longo1406@gmail.com");
 } else {
