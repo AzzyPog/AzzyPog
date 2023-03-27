@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF7A6FF&height=150&section=header" />
 
 <div> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=3BF7A6&center=true&width=435&lines=Hello+World!+%F0%9F%91%BE%E2%9C%A8;Glad+to+see+you+in+my+profile!+%F0%9F%A4%97" alt="Typing SVG"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=3BF7A6&center=true&width=1100&height=40&lines=Hello+World!+%F0%9F%91%BE%E2%9C%A8;Glad+to+see+you+in+my+profile!+%F0%9F%A4%97" alt="Typing SVG"></a>
     <p style="font-size:20px" align="center"> My name is <strong>Renato Longo</strong> </p>
 </div>
 
@@ -24,7 +24,12 @@ if(need_developer){
     invite("See my Portfolio");
 };
 ```
+</div>
 
+##
+<div>
+<h3> Technologies </h3>
+<img width=40 heigth=40 src="https://cdn.simpleicons.org/Javascript/#F7DF1E">
 </div>
 
 
