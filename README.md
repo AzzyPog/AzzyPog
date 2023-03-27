@@ -29,7 +29,24 @@ if(need_developer){
 ##
 <div>
 <h3> Technologies </h3>
-<img width=40 heigth=40 src="https://cdn.simpleicons.org/Javascript/#F7DF1E">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Javascript">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Node.js">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Mysql">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/HTML5">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/CSS3">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Sequelize">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Express">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Python">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Git">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/visualStudioCode">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Figma">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/React">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/SQLite">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Postman">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/npm">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/JSON">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/GitLab">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Github">
 </div>
 
 
