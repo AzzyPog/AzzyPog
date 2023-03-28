@@ -50,4 +50,21 @@ if(need_developer){
 </div>
 
 
+<div> 
+<h3>Contact me</h3>
+<a href = "mailto:renato.longo1406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-3BF7A6?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank">
+</a>
+<a href = "https://www.linkedin.com/in/renato-longo-filho-6042a3219">
+<img src="https://img.shields.io/badge/Linkedin-3BF7A6?style=for-the-badge&logo=linkedin&logoColor=white" target=" _blank">
+</a>
+<a href = "https://portfolio-azzypog.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-3BF7A6?style=for-the-badge&logo=portfolio&logoColor=white" target=" _blank">
+</a>
+</div>
+
+##
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF7A6FF&height=150&section=footer" />
