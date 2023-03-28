@@ -65,6 +65,6 @@ if(need_developer){
 
 ##
 
-
+![Snake animation](https://github.com/AzzyPog/AzzyPog/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF7A6FF&height=150&section=footer" />
