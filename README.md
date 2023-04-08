@@ -13,7 +13,7 @@
 ```javascript
 const Me = {
     code: [Javascript, SQL, Python, C++],
-    tools: [figma, Node, Sequelize, Express, React],
+    tools: [Figma, Node, Sequelize, Express, React],
     about_me: ["I used to be a Math Student before I found my love in Web Development, I'm also a Data Science enthusiast."],
     softSkills: [Creativity, Team Working, Agile Thinking],
     loves: [music, code, tech, instruments]
