@@ -35,6 +35,7 @@ if(need_developer){
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/HTML5">
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/CSS3">
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Sequelize">
+<img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/springboot">
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Express/white">
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Python">
 <img width=40 heigth=40 style="margin-right:10px" src="https://cdn.simpleicons.org/Git">
