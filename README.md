@@ -14,9 +14,9 @@
 const Me = {
     code: [Javascript, Typescript, SQL, Python, C++],
     tools: [Figma, Node, Sequelize, Express, React],
-    about_me: ["I used to be a Math Student before I found my love in Web Development, I'm also a Data Science enthusiast."],
+    about_me: ["I am a Math Student, but I always love Web Development, I'm also a Data Science enthusiast."],
     softSkills: [Creativity, Team Working, Agile Thinking],
-    loves: [music, code, tech, instruments]
+    loves: [music, code, tech, guitar]
 };
 if(need_developer){
     contactMe("renato.longo1406@gmail.com");
